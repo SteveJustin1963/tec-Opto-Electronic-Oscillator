@@ -1,4 +1,4 @@
-# tec-Optoelectronic-Oscillator
+# tec-Opto-Electronic-Oscillator
 
 https://en.wikipedia.org/wiki/Opto-electronic_oscillator
 
